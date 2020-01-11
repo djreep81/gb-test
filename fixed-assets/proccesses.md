@@ -1,4 +1,4 @@
-# Initial page
+# Proccesses
 
 ## Getting Super Powers
 
@@ -10,9 +10,16 @@ $ give me super-powers
 
 {% hint style="info" %}
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
-Once you're strong enough, save the world:
+1. Fixed Assets Data sources
+2. Fixed Assets Processes
+   1. Book Process
+   2. Tax Process
+3. UOP - Units of Production
+4. spread vs catchup
+5. Fixed Asset Staging
+6. Populate staging interface
+{% endhint %}
 
 {% code title="hello.sh" %}
 ```bash
