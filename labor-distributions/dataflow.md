@@ -21,6 +21,9 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
+```mermaid
+
+
 graph TD
 A[/Payroll Data - Employee Information/]
 B[/Payroll Data - GL Codes/]
@@ -61,3 +64,5 @@ V --> L
 
 D --> U
 U --> W
+
+```
