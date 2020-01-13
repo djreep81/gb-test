@@ -4,6 +4,7 @@
 
 ## Labor Distributions
 
+* [DataFlow](labor-distributions/dataflow.md)
 * [Importers](labor-distributions/importers.md)
 * [Exporters](labor-distributions/exporters.md)
 
