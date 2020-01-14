@@ -5,8 +5,10 @@
 ## Labor Distributions
 
 * [Data Flow Diagram](labor-distributions/dataflow.md)
+* [Configuration](labor-distributions/configuration.md)
 * [Importers](labor-distributions/importers.md)
 * [Exporters](labor-distributions/exporters.md)
+* [Labor Distribution Setup](labor-distributions/labor-distribution-setup.md)
 
 ## Fixed Assets
 

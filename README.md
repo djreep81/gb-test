@@ -1,8 +1,4 @@
----
-description: W Energy High Level Design Documentation
----
-
-# W Energy Software
+# Initial page
 
 ## Getting Super Powers
 

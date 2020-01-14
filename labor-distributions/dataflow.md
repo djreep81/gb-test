@@ -1,8 +1,10 @@
-# Data Flow Diagram
+# DataFlow
 
 ## Overview of Labor distribution Data Flow Diagram
 
-```text
+
+
+```
 test 1
 ```
 
@@ -10,5 +12,7 @@ test 1
 test
 {% endhint %}
 
-![Labor Distribution Data Flow Graph](../.gitbook/assets/labor_distribution_data_flow.svg)
+
+![Labor Distribution Data Flow Graph](./labor_distribution_data_flow.svg)
+
 
