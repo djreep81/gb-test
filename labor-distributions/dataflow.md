@@ -13,5 +13,7 @@ test
 {% endhint %}
 
 
+![Labor Distribution Data Flow Graph](./labor_distribution_data_flow.svg)
+<img src="./labor_distribution_data_flow.svg">
 
 
