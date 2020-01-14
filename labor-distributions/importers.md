@@ -1,16 +1,18 @@
+---
+description: Import processes
+---
+
 # Importers
 
-## Getting Super Powers
+{% hint style="info" %}
+ All importers \(staff, gl codes, paysheets, timesheets\) are imported via ruby importers.  The process code can be all found in lib/import/exd\_ap\_staff.rb
+{% endhint %}
 
-Becoming a super hero is a fairly straight forward process:
+## Import Staff
 
 ```
 $ give me super-powers
 ```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
 Once you're strong enough, save the world:
 
