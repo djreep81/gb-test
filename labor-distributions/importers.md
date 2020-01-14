@@ -11,10 +11,19 @@ description: Import processes
 ## Import Staff
 
 ```
-$ give me super-powers
+
 ```
 
-Once you're strong enough, save the world:
+Importing employee data status field can be as follows:
+
+U = Updated Employees  
+R = Rehired Employees  
+T = Terminated Employees  
+L = Employees on Leave.
+
+## Import GL Codes
+
+## 
 
 {% code title="hello.sh" %}
 ```bash
