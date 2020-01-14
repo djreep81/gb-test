@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [W Energy Software](README.md)
 
 ## Labor Distributions
 
-* [DataFlow](labor-distributions/dataflow.md)
+* [Data Flow Diagram](labor-distributions/dataflow.md)
 * [Importers](labor-distributions/importers.md)
 * [Exporters](labor-distributions/exporters.md)
 
