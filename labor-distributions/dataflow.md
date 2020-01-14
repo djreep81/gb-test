@@ -5,7 +5,7 @@
 
 
 ```
-$ give me super-powers
+test 1
 ```
 
 {% hint style="info" %}
